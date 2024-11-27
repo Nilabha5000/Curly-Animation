@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+#canv{
+    background-color: white;
+    position: absolute;
+    top :50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 2px solid black;
+    width: 500px;
+    height : 500px;
+}
